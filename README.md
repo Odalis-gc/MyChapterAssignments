@@ -13,7 +13,8 @@
     <nav>
         <ul>
             <li><a href="#chapter4">Chapter 4</a></li>  
-            <li><a href="#chapter5">Chapter 5</a></li> 
+            <li><a href="#chapter5">Chapter 5</a></li>
+            <li><a href="#chapter6">Chapter 6</a></li>
         </ul>
     </nav>
     <section id="chapter4">
@@ -30,5 +31,11 @@
             <li><a href="#">HoP 2: (Coming Soon)</a></li>  <!-- Placeholder for Chapter 5 link -->
         </ul>
     </section>
+    <section> id="chapter6"
+        <h2>Chapter 6 </h2>
+        <ul>
+            <li><a href="#">HoP 1</a></li>
+        </ul>
+        
 </body>
 </html>
