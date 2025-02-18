@@ -39,7 +39,7 @@
         </ul>
     </section>
     < section id="chapter7">
-        <h2>Chapter 7</h2>h2>
+        <h2>Chapter 7</h2>
         <ul>
             <li><a href="Ch7HOP7-4.html">HoP 7-4</a></li>
             <li><a href="Ch7HOP7-5.html">HoP 7-5</a></li>
