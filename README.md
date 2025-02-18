@@ -15,7 +15,7 @@
             <li><a href="#chapter4">Chapter 4</a></li>  
             <li><a href="#chapter5">Chapter 5</a></li>
             <li><a href="#chapter6">Chapter 6</a></li>
-            <li><a href="#chapter7>Chapter 7</a></li>
+            <li><a href="#chapter7">Chapter 7</a></li>
         </ul>
     </nav>
     <section id="chapter4">
