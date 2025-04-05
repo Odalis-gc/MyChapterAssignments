@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> Chapter Assignments </title>
+    <title>Chapter Assignments</title>
 </head>
 <body>
     <header>
@@ -38,13 +38,13 @@
             <li><a href="#">HoP 1</a></li>
         </ul>
     </section>
-    < section id="chapter7">
+    <section id="chapter7">
         <h2>Chapter 7</h2>
         <ul>
             <li><a href="Ch7HOP7-4.html">HoP 7-4</a></li>
             <li><a href="Ch7HOP7-5.html">HoP 7-5</a></li>
             <li><a href="Ch7HOP7-7.html">HoP 7-7</a></li>
         </ul>
-        
+    </section>section>     
 </body>
 </html>
