@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Chapter Assignments</title>
+    <title> Chapter Assignments </title>
 </head>
 <body>
     <header>
