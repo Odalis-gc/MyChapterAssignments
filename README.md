@@ -28,8 +28,8 @@
     <section id="chapter5">
         <h2>Chapter 5</h2>
         <ul>
-            <li><a href="#">HoP 1: (Coming Soon)</a></li>  <!-- Placeholder for Chapter 5 link -->
-            <li><a href="#">HoP 2: (Coming Soon)</a></li>  <!-- Placeholder for Chapter 5 link -->
+            <li><a href="#">HoP 1</a></li> 
+            <li><a href="#">HoP 2</a></li> 
         </ul>
     </section>
     <section id="chapter6">
@@ -45,6 +45,6 @@
             <li><a href="Ch7HOP7-5.html">HoP 7-5</a></li>
             <li><a href="Ch7HOP7-7.html">HoP 7-7</a></li>
         </ul>
-    </section>section>     
+    </section>    
 </body>
 </html>
